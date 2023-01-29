@@ -1,0 +1,17 @@
+ [
+{
+  "name": "Mojito",
+  "price": 16,
+  "image": "assets/Mojito.jpg"
+},
+{
+  "name": "Sex On The Beach",
+  "price": 13,
+  "image": "assets/sexOnTheBeach.jpg"
+},
+{
+  "name": "Pina Colada",
+"price": 18,
+"image": "assets/PinaColada.jpg"
+}
+]
